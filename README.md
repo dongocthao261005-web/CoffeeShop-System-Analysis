@@ -13,8 +13,8 @@ Vui lòng xem chi tiết toàn bộ quy trình, đặc tả Use Case và các s�
 
 ### 1. Business Use Case Diagram
 Mô hình hóa các tương tác giữa các tác nhân bên ngoài (Khách hàng, Chủ quán, Nhà cung cấp) với các quy trình kinh doanh cốt lõi của quán.
-> ![Business Use Case](<img width="765" height="668" alt="UseCase" src="https://github.com/user-attachments/assets/69c1accb-fae8-484c-9bd1-cbf652b21a05" />
-)
+<img width="765" height="668" alt="UseCase" src="https://github.com/user-attachments/assets/ea50659e-f3cc-4ffd-b4b8-38f6035ae818" />
+
 
 ### 2. Inventory Management Process (Kiểm soát hàng hóa)
 Phân tích chi tiết quy trình kiểm kê, đề xuất và phê duyệt nhập kho nguyên vật liệu từ nhà cung cấp.
