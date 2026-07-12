@@ -13,14 +13,17 @@ Vui lòng xem chi tiết toàn bộ quy trình, đặc tả Use Case và các s�
 
 ### 1. Business Use Case Diagram
 Mô hình hóa các tương tác giữa các tác nhân bên ngoài (Khách hàng, Chủ quán, Nhà cung cấp) với các quy trình kinh doanh cốt lõi của quán.
-> ![Business Use Case](<img width="765" height="668" alt="Use Case" src="https://github.com/user-attachments/assets/de72022a-fc05-48c4-9a88-c36f4c16aac0" />)
+> ![Business Use Case](<img width="765" height="668" alt="UseCase" src="https://github.com/user-attachments/assets/69c1accb-fae8-484c-9bd1-cbf652b21a05" />
+)
 
 ### 2. Inventory Management Process (Kiểm soát hàng hóa)
 Phân tích chi tiết quy trình kiểm kê, đề xuất và phê duyệt nhập kho nguyên vật liệu từ nhà cung cấp.
 - **Activity Diagram:** Đặc tả luồng công việc nghiệp vụ nhập kho.
-> ![Activity Diagram](<img width="1463" height="964" alt="Activity Diagram" src="https://github.com/user-attachments/assets/df61a507-db67-4e2e-93c5-db3c5cacd5f5" />)
+> ![Activity Diagram](<img width="1463" height="964" alt="ActivityDiagram" src="https://github.com/user-attachments/assets/ab8e2a4e-dd03-44bf-8e28-4bcdc0f7f13b" />)
 - **Sequence Diagram:** Mô phỏng sự trao đổi thông điệp giữa Nhân viên kho, Quản lý và Nhà cung cấp.
-> ![Sequence Diagram](<img width="1106" height="767" alt="Sequence Diagram" src="https://github.com/user-attachments/assets/22dc198e-dd39-42aa-9c73-d20a861a4d03" />)
+> ![Sequence Diagram](<img width="1106" height="767" alt="SequenceDiagram" src="https://github.com/user-attachments/assets/369b5d3d-58de-4bf4-9f13-5ed42225bc21" />)
+- **Communication Diagram:** Thể hiện cấu trúc liên kết và luồng trao đổi thông tin giữa các đối tượng (Nhân viên kho, Quản lý, Nhà cung cấp) trong quy trình kiểm soát hàng hóa.
+> ![Communication Diagram](<img width="1078" height="613" alt="CommunicationDiagram" src="https://github.com/user-attachments/assets/5e366208-4954-4fd3-b4a5-34b41b8d937b" />)
 
 ### 3. UI/UX Prototyping
 Thiết kế nguyên mẫu giao diện cho chức năng Kiểm soát hàng hóa (Thống kê tồn kho và Phiếu nhập kho).
