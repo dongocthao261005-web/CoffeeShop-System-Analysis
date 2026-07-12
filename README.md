@@ -7,7 +7,8 @@
 
 ## Full Documentation
 Vui lòng xem chi tiết toàn bộ quy trình, đặc tả Use Case và các sơ đồ phân tích tại tài liệu PDF dưới đây:
-**[Xem Báo Cáo Phân Tích Hệ Thống]([THPTTKHT_QLCAFE.pdf](https://github.com/user-attachments/files/29939763/THPTTKHT_QLCAFE.pdf))**
+[THPTTKHT_QLCAFE.pdf](https://github.com/user-attachments/files/29939899/THPTTKHT_QLCAFE.pdf)
+
 
 ## Highlighted Analysis & Modeling
 
@@ -19,11 +20,14 @@ Mô hình hóa các tương tác giữa các tác nhân bên ngoài (Khách hàn
 ### 2. Inventory Management Process (Kiểm soát hàng hóa)
 Phân tích chi tiết quy trình kiểm kê, đề xuất và phê duyệt nhập kho nguyên vật liệu từ nhà cung cấp.
 - **Activity Diagram:** Đặc tả luồng công việc nghiệp vụ nhập kho.
-> ![Activity Diagram](<img width="1463" height="964" alt="ActivityDiagram" src="https://github.com/user-attachments/assets/ab8e2a4e-dd03-44bf-8e28-4bcdc0f7f13b" />)
+<img width="1463" height="964" alt="ActivityDiagram" src="https://github.com/user-attachments/assets/dd8da708-55c6-4120-a801-b82fd30743ba" />
+
 - **Sequence Diagram:** Mô phỏng sự trao đổi thông điệp giữa Nhân viên kho, Quản lý và Nhà cung cấp.
-> ![Sequence Diagram](<img width="1106" height="767" alt="SequenceDiagram" src="https://github.com/user-attachments/assets/369b5d3d-58de-4bf4-9f13-5ed42225bc21" />)
+<img width="1106" height="767" alt="SequenceDiagram" src="https://github.com/user-attachments/assets/5a263e2b-8e88-419b-9185-66cd90dff2be" />
+
 - **Communication Diagram:** Thể hiện cấu trúc liên kết và luồng trao đổi thông tin giữa các đối tượng (Nhân viên kho, Quản lý, Nhà cung cấp) trong quy trình kiểm soát hàng hóa.
-> ![Communication Diagram](<img width="1078" height="613" alt="CommunicationDiagram" src="https://github.com/user-attachments/assets/5e366208-4954-4fd3-b4a5-34b41b8d937b" />)
+<img width="1078" height="613" alt="CommunicationDiagram" src="https://github.com/user-attachments/assets/7032a90d-4500-4aeb-8789-f22ca5d2ac6a" />
+
 
 ### 3. UI/UX Prototyping
 Thiết kế nguyên mẫu giao diện cho chức năng Kiểm soát hàng hóa (Thống kê tồn kho và Phiếu nhập kho).
